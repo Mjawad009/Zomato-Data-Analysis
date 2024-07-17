@@ -21,7 +21,7 @@ I have used Google Collab to load the data and analyze the data as well.
 3. What price range is preferred by couples for their dinner at restaurants?
    Conclusion: The majority of couples prefer restaurants with an approximate cost of 300 rupees.
 
-The data can be downloaded by [here](https://drive.google.com/file/d/1lamgErENUmuzvENgl4nMtbaJohwEP8KP/view)
+The data can be downloaded by [here]((https://github.com/Mjawad009/Zomato-Data-Analysis/blob/main/README.md))
 
 # I have taken these following steps:
 

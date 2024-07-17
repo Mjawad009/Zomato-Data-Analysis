@@ -1,5 +1,8 @@
 # Zomato Data Analysis Using Python
 
+
+![zomato-ft-760x570](https://github.com/user-attachments/assets/45606043-3ab4-4e30-a8b1-d7545021b308)
+
 Python and its following libraries are used to analyze Zomato data.
 
 1. Pandas
